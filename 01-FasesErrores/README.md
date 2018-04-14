@@ -79,7 +79,7 @@ respuesta:
 
 La respuesta es 4200768
 
-Muestra dicho numero ya que el sistema busco un valor, y ese valor considerandolo desde nuestro punto de vista es basura.
+Muestra dicho numero ya que el sistema, como no esta el valor como argumento en el printf, busco un valor, y ese valor considerandolo desde nuestro punto de vista es basura.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
